@@ -1,7 +1,7 @@
 #include<ESP8266WiFi.h>
 #include<ESP8266WiFiMulti.h>
 ESP8266WiFiMulti wifimulti;
-boolean connctionwasalive=true;
+
 
 
 void setup() {
